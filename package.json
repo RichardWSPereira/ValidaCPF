@@ -1,0 +1,12 @@
+{
+  "name": "valida-cpf",
+  "version": "1.0.0",
+  "description": "Validador de CPF simples em Node.js",
+  "main": "validaCPF.js",
+  "scripts": {
+    "start": "node validaCPF.js",
+    "test": "node validaCPF.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
