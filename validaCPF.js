@@ -51,7 +51,7 @@ class validaCPF {
     };
 }
 
-const cpf = new validaCPF('070.987.730-03');
+const cpf = new validaCPF('070.987.720-03');
 
 if (cpf.valida()) {
     console.log('CPF válido!')
