@@ -51,9 +51,23 @@ class validaCPF {
     };
 }
 
-const cpf = new validaCPF('070.987.720-03');
+const cpf = new validaCPF('210.774.740-75');
 
 if (cpf.valida()) {
+    console.log('CPF válido!')
+} else {
+    console.log('CPF inválido!')
+}
+const cpf2 = new validaCPF('070.987.720-03');
+
+if (cpf2.valida()) {
+    console.log('CPF válido!')
+} else {
+    console.log('CPF inválido!')
+}
+const cpf3 = new validaCPF('070.987.721-03');
+
+if (cpf3.valida()) {
     console.log('CPF válido!')
 } else {
     console.log('CPF inválido!')
