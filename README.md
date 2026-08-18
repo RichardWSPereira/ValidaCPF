@@ -1,4 +1,4 @@
-# ValidaCPF
+# Validação de CPF
 Validador de CPF em JavaScript — código educativo que implementa as regras oficiais de verificação do CPF.
 
 Sou desenvolvedor e criei este pequeno projeto para demonstrar, de forma clara e didática, como os dígitos verificadores do CPF são calculados. É útil para quem está aprendendo sobre validações numéricas e manipulação de strings em JavaScript.
